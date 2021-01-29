@@ -1,0 +1,28 @@
+{
+  "name": "hexadecimal-to-decimal",
+  "version": "1.0.0",
+  "description": "A node.js package to convert hexadecimal to decimal numbers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "hexadecimal to decimal",
+    "convert hexadecimal to decimal",
+    "hexadecimal",
+    "decimal",
+    "hexadecimal converter",
+    "hexadecimal to decimal converter"
+  ],
+  "author": "Swara Trivedi",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aashay4/hexadecimaltodecimal"
+  },
+  "dependencies": {
+    "bignumber.js": "^9.0.1"
+  },
+  "homepage": "https://binarytotext.net/hexadecimal-to-decimal/"
+}
