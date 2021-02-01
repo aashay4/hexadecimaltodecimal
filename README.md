@@ -1,4 +1,4 @@
-# dec-to-binary
+# hexadecimal-to-decimal
 
 hexadecimal-to-decimal is a simple nodejs package to convert hexadecimal to decimal easily, can be used with Angular, React, Vue and any other framework.
 
